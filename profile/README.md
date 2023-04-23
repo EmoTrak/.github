@@ -6,7 +6,7 @@
 
 👨‍👩‍👧‍👦  4조 : FE [윤지현](https://github.com/jihyun-Yun42) [양인서](https://github.com/1nxeo) [박승우](https://github.com/parkingbox), BE [이진](https://github.com/JinguLeee) [서영석](https://github.com/conrad-seo) [박문주](https://github.com/parkmj4312) [홍다정](https://github.com/bambee83)
 
-# [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-round&logo=youtube&link=https://youtu.be/vYJY0NuBx9Y)](https://youtu.be/vYJY0NuBx9Y)   [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-round&logo=notion&link=https://www.notion.so/1nxeo/4-EmoTrak-0e155b9e771b4c659480f406933151f6)](https://www.notion.so/1nxeo/4-EmoTrak-0e155b9e771b4c659480f406933151f6) [![react Badge](https://img.shields.io/badge/react-61DAFB?style=flat-round&logo=react&logoColor=white)](https://emotrak.vercel.app/)
+# [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-round&logo=youtube&link=https://youtu.be/vYJY0NuBx9Y)]()   [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-round&logo=notion&link=https://www.notion.so/1nxeo/4-EmoTrak-0e155b9e771b4c659480f406933151f6)](https://www.notion.so/1nxeo/4-EmoTrak-0e155b9e771b4c659480f406933151f6) [![react Badge](https://img.shields.io/badge/react-61DAFB?style=flat-round&logo=react&logoColor=white)](https://emotrak.vercel.app/)
 
 ## 🔧 Technologies & Software Used
 
