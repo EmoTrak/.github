@@ -2,7 +2,7 @@
 
 📝 프로젝트 소개 : [Why EmoTrak ?](https://www.notion.so/1nxeo/Why-EmoTrak-168df3dfbb9f4e79998c8cb36afea7c0)
 
-📅 프로젝트 기간 : 2023.03.31 ~ 2023.05.
+📅 프로젝트 기간 : 2023.03.31 ~ 2023.05.12
 
 👨‍👩‍👧‍👦  4조 : FE [윤지현](https://github.com/jihyun-Yun42) [양인서](https://github.com/1nxeo) [박승우](https://github.com/parkingbox), BE [이진](https://github.com/JinguLeee) [서영석](https://github.com/conrad-seo) [박문주](https://github.com/parkmj4312) [홍다정](https://github.com/bambee83)
 
