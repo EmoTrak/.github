@@ -19,22 +19,3 @@
 
  <img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-round&logo=slack&logoColor=white"/>
 
-## 🔑 [프로젝트 구현 기능](https://emotrak.vercel.app/) 
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-
-
-## 🏀 [Trouble Shooting]()
-
-
